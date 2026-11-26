@@ -1,0 +1,1353 @@
+[
+  {
+    "t": "2026-10-27T21:00:00Z",
+    "worth_usd": 942431000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-10-28T21:00:00Z",
+    "worth_usd": 924009000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-10-29T21:00:00Z",
+    "worth_usd": 916789000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-10-30T21:00:00Z",
+    "worth_usd": 868490000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-10-31T21:00:00Z",
+    "worth_usd": 868490000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-01T22:00:00Z",
+    "worth_usd": 868490000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-02T22:00:00Z",
+    "worth_usd": 878519000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-03T22:00:00Z",
+    "worth_usd": 901689000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-04T22:00:00Z",
+    "worth_usd": 868846000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-05T22:00:00Z",
+    "worth_usd": 789495000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-06T22:00:00Z",
+    "worth_usd": 849734000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-07T22:00:00Z",
+    "worth_usd": 849734000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-08T22:00:00Z",
+    "worth_usd": 849734000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-09T22:00:00Z",
+    "worth_usd": 897487000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-10T22:00:00Z",
+    "worth_usd": 903391000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-11T22:00:00Z",
+    "worth_usd": 890677000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-12T22:00:00Z",
+    "worth_usd": 894264000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-13T22:00:00Z",
+    "worth_usd": 887157000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-14T22:00:00Z",
+    "worth_usd": 887157000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-15T22:00:00Z",
+    "worth_usd": 887157000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-16T22:00:00Z",
+    "worth_usd": 874057000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-17T22:00:00Z",
+    "worth_usd": 896409000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-18T22:00:00Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T01:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T02:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T03:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T04:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T05:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T06:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T07:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T08:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T09:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T10:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T11:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T12:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T13:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T14:00:02Z",
+    "worth_usd": 907047000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T15:00:03Z",
+    "worth_usd": 918950000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T16:00:03Z",
+    "worth_usd": 887090000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T17:00:03Z",
+    "worth_usd": 888536000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T18:00:02Z",
+    "worth_usd": 869073000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T19:00:03Z",
+    "worth_usd": 876646000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T20:00:02Z",
+    "worth_usd": 876065000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T21:00:03Z",
+    "worth_usd": 873237000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T22:00:03Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-19T23:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T00:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T01:00:03Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T02:00:05Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T03:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T04:00:03Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T05:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T06:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T07:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T08:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T09:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T10:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T11:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T12:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T13:00:02Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T14:00:03Z",
+    "worth_usd": 877423000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T15:00:03Z",
+    "worth_usd": 839865000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T16:00:02Z",
+    "worth_usd": 829161000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T17:00:02Z",
+    "worth_usd": 821178000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T18:00:02Z",
+    "worth_usd": 817301000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T19:00:02Z",
+    "worth_usd": 820796000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T20:00:03Z",
+    "worth_usd": 823076000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T21:00:02Z",
+    "worth_usd": 816296000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T22:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-20T23:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T00:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T01:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T02:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T03:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T04:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T05:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T06:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T07:00:03Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T08:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T09:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T10:00:03Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T11:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T12:00:04Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T13:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T14:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T15:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T16:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T17:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T18:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T19:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T20:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T21:00:03Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T22:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-21T23:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T00:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T01:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T02:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T03:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T04:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T05:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T06:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T07:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T08:00:03Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T09:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T10:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T11:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T12:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T13:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T14:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T15:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T16:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T17:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T18:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T19:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T20:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T21:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T22:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-22T23:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T00:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T01:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T02:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T03:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T04:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T05:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T06:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T07:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T08:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T09:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T10:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T11:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T12:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T13:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T14:00:02Z",
+    "worth_usd": 811673000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T15:00:02Z",
+    "worth_usd": 888055000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T16:00:02Z",
+    "worth_usd": 883277000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T17:00:02Z",
+    "worth_usd": 871238000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T18:00:03Z",
+    "worth_usd": 867950000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T19:00:02Z",
+    "worth_usd": 866985000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T20:00:03Z",
+    "worth_usd": 859283000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T21:00:03Z",
+    "worth_usd": 860302000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T22:00:03Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-23T23:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T00:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T01:00:03Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T02:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T03:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T04:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T05:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T06:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T07:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T08:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T09:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T10:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T11:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T12:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T13:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T14:00:02Z",
+    "worth_usd": 855803000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T15:00:03Z",
+    "worth_usd": 836008000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T16:00:04Z",
+    "worth_usd": 804284000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T17:00:02Z",
+    "worth_usd": 812199000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T18:00:02Z",
+    "worth_usd": 821243000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T19:00:03Z",
+    "worth_usd": 825087000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T20:00:02Z",
+    "worth_usd": 821036000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T21:00:02Z",
+    "worth_usd": 816769000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T22:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-24T23:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T00:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T01:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T02:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T03:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T04:00:03Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T05:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T06:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T07:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T08:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T09:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T10:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T11:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T12:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T13:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T14:00:02Z",
+    "worth_usd": 816916000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T15:00:02Z",
+    "worth_usd": 748757000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T16:00:02Z",
+    "worth_usd": 762605000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T17:00:02Z",
+    "worth_usd": 762522000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T18:00:02Z",
+    "worth_usd": 789217000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T19:00:02Z",
+    "worth_usd": 806504000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T20:00:02Z",
+    "worth_usd": 822499000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T21:00:03Z",
+    "worth_usd": 818197000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T22:00:02Z",
+    "worth_usd": 823460000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-25T23:00:02Z",
+    "worth_usd": 823460000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-26T00:00:02Z",
+    "worth_usd": 823460000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-26T01:00:02Z",
+    "worth_usd": 823460000000,
+    "source": "forbes-wealth-history",
+    "seeded": true,
+    "rounded": true
+  },
+  {
+    "t": "2026-11-26T01:55:45Z",
+    "worth_usd": 823460686000,
+    "source": "forbes-profile",
+    "seeded": false,
+    "rounded": false
+  }
+]

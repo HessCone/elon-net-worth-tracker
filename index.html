@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ELON WORTH — Live net worth tracker</title>
+<meta name="description" content="Live tracker of Elon Musk's net worth, updated from Forbes Real-Time Billionaires. Unofficial fan site by Hess Cone.">
+<meta property="og:title" content="Elon Worth — live net worth">
+<meta property="og:description" content="Elon Musk's net worth, updated from Forbes Real-Time Billionaires.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://hesscone.github.io/elon-net-worth-tracker/">
+<meta name="theme-color" content="#05060a">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Orbitron:wght@600;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=1">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%2305060a'/><circle cx='16' cy='16' r='7' fill='%2300e5ff'/></svg>">
+</head>
+<body>
+<div class="bg-grid" aria-hidden="true"></div>
+<div class="bg-glow" aria-hidden="true"></div>
+
+<header class="nav">
+  <div class="brand"><span class="brand-mark"></span>ELON<span class="thin">WORTH</span></div>
+  <div class="live"><span class="pulse"></span><span id="live-label">LIVE<span class="hide-sm"> · FORBES</span></span></div>
+</header>
+
+<main>
+  <section class="hero">
+    <p class="eyebrow">Forbes estimate · Elon Musk</p>
+    <h1 class="big" id="worth" aria-live="polite">—</h1>
+    <p class="exact" id="worth-exact"></p>
+    <div class="hero-meta">
+      <span class="chip" id="today-chip">—</span>
+      <span class="muted">As of <b id="as-of">—</b></span>
+      <span class="muted" id="source-line"></span>
+    </div>
+    <div class="hero-actions">
+      <a class="btn btn-x" id="share-x" href="https://x.com/intent/post" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        Share on X
+      </a>
+      <a class="btn btn-ghost" href="#method">How it works</a>
+    </div>
+  </section>
+
+  <section class="cards">
+    <article class="card">
+      <div class="card-label">Today</div>
+      <div class="card-num sm" id="d-today">—</div>
+      <div class="card-sub" id="d-today-sub">Needs an earlier reading</div>
+    </article>
+    <article class="card">
+      <div class="card-label">7 days</div>
+      <div class="card-num sm" id="d-week">—</div>
+      <div class="card-sub" id="d-week-sub">Needs a week of history</div>
+    </article>
+    <article class="card">
+      <div class="card-label">30 days</div>
+      <div class="card-num sm" id="d-month">—</div>
+      <div class="card-sub" id="d-month-sub">Needs a month of history</div>
+    </article>
+    <article class="card">
+      <div class="card-label">Forbes rank</div>
+      <div class="card-num sm" id="rank">—</div>
+      <div class="card-sub">Real-time billionaires list</div>
+    </article>
+  </section>
+
+  <section class="panel" id="holdings-panel">
+    <div class="panel-head">
+      <h2>Holdings</h2>
+      <div class="legend" id="mix-legend"></div>
+    </div>
+    <div class="bar stack" id="mix-bar" hidden></div>
+    <div class="holdings" id="holdings"></div>
+    <p class="tiny muted" id="holdings-foot"></p>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <h2>History</h2>
+      <div class="legend"><span class="dot c hollow"></span>Forbes history <span class="dot c"></span>Saved here</div>
+    </div>
+    <div class="chart-wrap"><canvas id="chart" aria-label="Net worth over time" role="img"></canvas></div>
+    <p class="tiny muted">Hollow points are Forbes wealth-history readings, rounded to the nearest million dollars. Solid points were saved by this site. The scale starts near the data, not at zero.</p>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <h2>Day by day</h2>
+    </div>
+    <p class="tiny muted">Last reading on each Central-time day, and the change from the day before.</p>
+    <ol class="days" id="days"></ol>
+    <button class="btn btn-ghost more" id="days-more" type="button">Show more days</button>
+  </section>
+
+  <section class="panel method" id="method">
+    <h2>Data &amp; method</h2>
+    <div class="method-grid">
+      <div>
+        <h3>Source</h3>
+        <p>The number comes from <a id="source-link" href="https://www.forbes.com/real-time-billionaires/" target="_blank" rel="noopener">Forbes Real-Time Billionaires</a>. A script reads the public JSON Forbes's own page uses (<a id="api-link" href="https://www.forbes.com/forbesapi/person/elon-musk.json" target="_blank" rel="noopener">raw JSON</a>). No paid API key. If that file fails, the script tries Forbes's real-time list, then the list feed, and the page names which one was used. This reading: <b id="source-id">—</b>.</p>
+      </div>
+      <div>
+        <h3>Holdings</h3>
+        <p>Tesla and SpaceX are the positions Forbes prices. Stock is shares times price. Options are shares times (price minus strike), which is what makes those lines add up to Forbes's total. Other private assets are Forbes's unpublished split. Forbes's profile says SpaceX acquired xAI, so xAI is not a separate line, and it mentions stakes in The Boring Company and Neuralink without dollar amounts.</p>
+      </div>
+      <div>
+        <h3>History &amp; time</h3>
+        <p>The chart starts from Forbes's own wealth history (about a month of daily readings and a week of hourly ones), labeled as rounded. After that, GitHub Actions saves a new reading at least once an hour. Today, 7 days, and 30 days only appear when an earlier point actually covers that window. Times are US Central.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div>Built by <b>Hess Cone</b></div>
+  <div class="muted tiny">Unofficial fan tracker. Not affiliated with Forbes, Elon Musk, Tesla, or SpaceX. Also: <a href="https://hesscone.github.io/cybercab-tracker/">Cybercab Count</a>.</div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+<script src="calc.js?v=1"></script>
+<script src="app.js?v=1"></script>
+</body>
+</html>
