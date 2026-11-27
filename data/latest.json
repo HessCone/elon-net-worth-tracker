@@ -1,7 +1,7 @@
 {
   "name": "Elon Musk",
-  "checked_at": "2026-11-27T17:00:51Z",
-  "as_of": "2026-11-27T17:00:02Z",
+  "checked_at": "2026-11-27T17:52:49Z",
+  "as_of": "2026-11-27T17:50:02Z",
   "source": {
     "id": "forbes-profile",
     "name": "Forbes Real-Time Billionaires",
@@ -11,7 +11,7 @@
     "fallback": false
   },
   "rank": 1,
-  "worth_usd": 851770407000,
+  "worth_usd": 852253563000,
   "forbes_previous_worth_usd": 823460685906,
   "holdings": [
     {
@@ -20,9 +20,9 @@
       "exchange": "NASDAQ",
       "kind": "shares",
       "shares": 4766475230,
-      "price_usd": 131.49,
+      "price_usd": 131.62,
       "exercise_price_usd": null,
-      "value_usd": 626743827993
+      "value_usd": 627363469773
     },
     {
       "company": "Tesla",
@@ -30,9 +30,9 @@
       "exchange": "NASDAQ",
       "kind": "shares",
       "shares": 395620252,
-      "price_usd": 399.32,
+      "price_usd": 398.86,
       "exercise_price_usd": null,
-      "value_usd": 157979079029
+      "value_usd": 157797093713
     },
     {
       "company": "Space Exploration Technologies Corp.",
@@ -40,9 +40,9 @@
       "exchange": "NASDAQ",
       "kind": "options",
       "shares": 350000000,
-      "price_usd": 131.49,
+      "price_usd": 131.62,
       "exercise_price_usd": 8.4,
-      "value_usd": 43081500000
+      "value_usd": 43127000000
     }
   ],
   "private_assets_usd": 23966000000,
