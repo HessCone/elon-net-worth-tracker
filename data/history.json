@@ -1692,5 +1692,12 @@
     "source": "forbes-profile",
     "seeded": false,
     "rounded": false
+  },
+  {
+    "t": "2026-11-28T04:56:15Z",
+    "worth_usd": 862784027000,
+    "source": "forbes-profile",
+    "seeded": false,
+    "rounded": false
   }
 ]
