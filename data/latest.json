@@ -1,7 +1,7 @@
 {
   "name": "Elon Musk",
-  "checked_at": "2026-11-28T12:53:06Z",
-  "as_of": "2026-11-28T12:50:02Z",
+  "checked_at": "2026-11-28T13:58:58Z",
+  "as_of": "2026-11-28T13:55:02Z",
   "source": {
     "id": "forbes-profile",
     "name": "Forbes Real-Time Billionaires",
@@ -12,7 +12,7 @@
   },
   "rank": 1,
   "worth_usd": 862784027000,
-  "forbes_previous_worth_usd": 823460685906,
+  "forbes_previous_worth_usd": 862784026776,
   "holdings": [
     {
       "company": "Space Exploration Technologies Corp.",
